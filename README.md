@@ -33,7 +33,7 @@
 
 - 👯I collaborated for **[Housify.com](https://github.com/vaishkiyarminal001/medical-ducks-5598)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Preetykumari06/Preetykumari06.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](Preetykumari06.github.io)**
 
    💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
 
