@@ -31,15 +31,15 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯I collaborated for **[Housify.com](https://github.com/vaishkiyarminal001/medical-ducks-5598)**
+- 👯I collaborated for **[Housify.com](https://github.com/Preetykumari06/Housify)**, **[LawCoonectHub](https://github.com/Preetykumari06/LawConnectHub-PK)** **[WellnessWave](https://github.com/Preetykumari06/WellnessWave)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://Preetykumari06.github.io)**
 
-   💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5**
+   💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5, React.js**
 
 - 📫 How to reach me **preetysingh46231@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1QwKluwmBYiBjgrqU-WirlQiFAn1PM5U2/view?usp=sharing">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1NCHrslQ5gAN5iC_EDFhJOzvreJ82dL8U/view">Resume</a>**
 
 - ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 <hr>
