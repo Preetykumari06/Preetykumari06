@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **preetysingh46231@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1NCHrslQ5gAN5iC_EDFhJOzvreJ82dL8U/view">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/154gQ4kzIpx8WXQ1Imi8r1ZZfdJRYTnIp/view?usp=sharing">Resume</a>**
 
 - ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 <hr>
@@ -87,7 +87,7 @@
     <a href="https://codepen.io/Preetykumari06">
     <img align="center" alt="Preety" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" />&nbsp;
   </a>
-  <a href="preetysingh46231@gmail.com">
+  <a href="mailto:preetysingh46231@gmail.com">
     <img align="center" alt="Preety @Mail" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcWAsueNir96FQohozZd8xJ43wVtZ90IPWCnWl1SH5BCHV2UJwbke9vY&s" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/preety-kumari-25380b190/">
