@@ -35,11 +35,11 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://Preetykumari06.github.io)**
 
-   💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5, React.js**
+   💬 Ask me about **NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, CSS3, HTML5, React.js, TypeScript **
 
 - 📫 How to reach me **preetysingh46231@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/154gQ4kzIpx8WXQ1Imi8r1ZZfdJRYTnIp/view?usp=sharing">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1vqya0tzQeDO4EAc88ipllVCgFLtL2KnU/view?usp=sharing">Resume</a>**
 
 - ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
 <hr>
