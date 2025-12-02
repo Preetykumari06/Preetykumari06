@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Preety Kumari</h1>
-<h3 align="center">💻 Node.js Backend Developer | NestJS | PostgreSQL | Prisma</h3>
+<h3 align="center">💻 Node.js Backend Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/preety-kumari-25380b190"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -92,15 +92,6 @@ Inventory, vendors, and warehouse backend system.
 ✔ Filtering & Pagination  
 ✔ Vendor–Item relations  
 ✔ Optimized SQL queries  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
