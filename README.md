@@ -22,6 +22,7 @@ I specialize in:
 - 🛡 Authentication (JWT, RBAC)  
 - ☁ AWS S3 integrations  
 - 🔗 Zoho APIs & third-party integrations  
+- 💳 EMI scheduling & payments module (auto-schedule, calculations & payment tracking)
 
 I love building **clean code**, **efficient systems**, and improving performance using optimized database queries.
 
@@ -32,63 +33,74 @@ I love building **clean code**, **efficient systems**, and improving performance
 ### **🟦 Backend**
 - Node.js • TypeScript • NestJS • Express.js  
 - Prisma ORM • Sequelize  
-- REST APIs • JWT • RBAC • Validation
+- REST APIs • JWT • RBAC • Class-Validator
 
 ### **🟩 Database**
-- PostgreSQL • MySQL • MongoDB  
-- SQL • Indexing • Query Optimization  
+- PostgreSQL • MySQL • MongoDB   
 
 ### **☁ Cloud & Tools**
 - AWS S3 • Firebase  
 - Docker • Postman  
-- Git • GitHub • VS Code
+- GitHub • VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **1. Law Connect Hub**
-Legal appointment platform with secure authentication & booking.
+### 🔹 **1. EMI Scheduling & Payments Module**
+Automated EMI cycle generation, payment tracking, and frequency-based scheduling.
+
+**Tech:** NestJS, Prisma, PostgreSQL  
+**✨ Features:**  
+✔ Auto EMI schedule generation  
+✔ Frequency-based calculation (daily/weekly/monthly)  
+✔ Payment tracking  
+✔ Transaction history API  
+✔ Error-proof financial validations  
+
+---
+
+### 🔹 **2. Law Connect Hub**
+A legal appointment management platform with secure multi-role login.
 
 **Tech:** Node.js, Express, MongoDB, JWT  
 **✨ Features:**  
-✔ JWT Auth  
-✔ Appointments  
-✔ Role-based access  
+✔ JWT Auth   
+✔ Appointment system  
 ✔ Secure data storage  
 
 ---
 
-### 🔹 **2. Authentication + RBAC System**
-Production-ready authentication backend with refresh tokens.
+### 🔹 **3. Authentication + RBAC System**
+Robust authentication backend built for production.
 
 **Tech:** NestJS, Prisma, PostgreSQL  
 **✨ Features:**  
-✔ JWT + Refresh Tokens  
+✔ JWT + Refresh Token Flow  
 ✔ RBAC (Admin/User)  
 ✔ Password hashing  
-✔ Error handling  
-✔ Input validation  
+✔ DTO validations  
+✔ Global exception filters  
 
 ---
 
-### 🔹 **3. AWS S3 File Upload Service**
-Secure file upload, view & delete using AWS S3.
+### 🔹 **4. AWS S3 File Upload Service**
+Secure file uploads with controlled access using AWS S3.
 
 **Tech:** Node.js, NestJS, AWS S3  
 **✨ Features:**  
-✔ Signed URLs  
-✔ File access control  
-✔ Secure bucket policies  
+✔ Presigned URLs  
+✔ Upload, View & Delete APIs  
+✔ Bucket policy control  
 
 ---
 
-### 🔹 **4. Inventory Management API**
-Inventory, vendors, and warehouse backend system.
+### 🔹 **5. Inventory Management API**
+Modular backend with vendors, inventory, and warehouse relationships.
 
 **Tech:** NestJS, Prisma, PostgreSQL  
 **✨ Features:**  
-✔ CRUD APIs  
+✔ CRUD operations  
 ✔ Filtering & Pagination  
 ✔ Vendor–Item relations  
 ✔ Optimized SQL queries  
