@@ -8,8 +8,11 @@
 <p align="center">
 <a href="mailto:preetysingh46231@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/preety-kumari-25380b190"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1Mgh0BGz8Qn23yUR8Lo-cDxpSl22cKgIX/view?usp=sharing"><img src="https://icons8.com/icon/115648/resume"/></a>
-  <a href="https://superb-dieffenbachia-faa42a.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Mgh0BGz8Qn23yUR8Lo-cDxpSl22cKgIX/view?usp=sharing">
+  <img src="https://img.icons8.com/?size=100&id=115648&format=png" alt="Resume Icon"/>
+</a>
+<a href="https://superb-dieffenbachia-faa42a.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -39,6 +42,8 @@ I love building **clean code**, **efficient systems**, and improving performance
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+
 <br/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="json" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
@@ -49,7 +54,6 @@ I love building **clean code**, **efficient systems**, and improving performance
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 <br/>
 
 </p>
@@ -83,7 +87,3 @@ I love building **clean code**, **efficient systems**, and improving performance
 ---
 
 <p align="center">✨ Thanks for visiting — Have a great day! ✨</p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalKNigam&theme=dark" alt="VishalKNigam" /></p>
-  </div>
-</div>
-  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
