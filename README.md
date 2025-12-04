@@ -6,13 +6,21 @@
 <h3 align="center">💻 Node.js Backend Developer</h3>
 
 <p align="center">
-<a href="mailto:preetysingh46231@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/preety-kumari-25380b190"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1Mgh0BGz8Qn23yUR8Lo-cDxpSl22cKgIX/view?usp=sharing">
-  <img src="https://img.icons8.com/?size=100&id=115648&format=png" alt="Resume Icon"/>
+<a href="mailto:preetysingh46231@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://superb-dieffenbachia-faa42a.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white"/></a>
 
+<a href="https://linkedin.com/in/preety-kumari-25380b190">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1Mgh0BGz8Qn23yUR8Lo-cDxpSl22cKgIX/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=readme&logoColor=white"/>
+</a>
+
+<a href="https://superb-dieffenbachia-faa42a.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
